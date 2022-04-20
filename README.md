@@ -46,3 +46,10 @@ I am Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="eslint" alt="eslint" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Leshe4ka&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)&nbsp;
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leshe4ka&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
