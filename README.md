@@ -16,4 +16,12 @@
 ---
 
 ### :technologist: About Me :
-  I am Frontend Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  
+- I’m working as a Software Developer and contributing to frontend for building web applications.
+
+- Open-source contributor.
+
+- Trying to become codewars ninja.
+
+- Contact me:   [![Linkedin Badge](https://img.shields.io/badge/-AlekseiKoziurov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aleksei-koziurov-1823b1219/)
